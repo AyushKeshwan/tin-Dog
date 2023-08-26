@@ -1,6 +1,7 @@
 
 # TinDog
 Project Link - https://ayushkeshwan.github.io/tin-Dog/
+
 TinDog is a fictional website for connecting dogs and their owners. It provides a platform to meet new and interesting dogs nearby. The website is designed to be visually appealing and user-friendly.
 
 
